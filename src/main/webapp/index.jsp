@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  ak88vp
+  ak88
   </body>
 </html>
