@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  dòng này do ánh viết
+  dòng này do ánh soạn
   </body>
 </html>
