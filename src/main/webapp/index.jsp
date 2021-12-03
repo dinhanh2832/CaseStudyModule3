@@ -13,7 +13,6 @@
   <body>
   dòng này do ánh viết
   binhkk viest cái này
-  dòng này do ánh soạn
   ánh rất pro
   phốaoaflafa
   ak88
