@@ -18,6 +18,6 @@
   phốaoaflafa
   ak88
   sửa lại xem đc không
-  adu ma ma ma
+  adu ma
   </body>
 </html>
